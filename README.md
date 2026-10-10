@@ -4,6 +4,7 @@
 I build scalable web applications. For the past 3+ years I've worked on
 products used by real people at scale:
 
+- 🌐 **[roydadban.ir](https://roydadban.ir)**: my personal project, designed and built end to end
 - 🏥 **Pezeshket**: telemedicine platform with 2M+ users and 6,000 doctors
 - 📊 Analytics dashboards used by 3,000+ sales staff
 - 🔄 Currently migrating Pezeshket from React.js to **Next.js + Tailwind CSS**
@@ -20,8 +21,9 @@ products used by real people at scale:
 **Tools:** Git, Vite, Webpack, Docker, Figma
 
 ## Featured projects
-- [next-site](link): one-line description
-- [nextjs-dashboard2](link): one-line description
+- [roydadban.ir](https://roydadban.ir): personal project, one-line description
+- [next-site](https://github.com/Aida-kashizadeh/next-site): one-line description
+- [nextjs-dashboard2](https://github.com/Aida-kashizadeh/nextjs-dashboard2): one-line description
 
 ## Get in touch
-[LinkedIn](your-url) · [Email](mailto:ida.kashizadeh@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/aida-kashizadeh-5b61a9257) · [Email](mailto:aidakashizadeh@gmail.com)
