@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Aida 👋
+**Frontend Developer** · React.js · Next.js · TypeScript · Tehran, Iran
 
-<!--
-**Aida-kashizadeh/Aida-kashizadeh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build scalable web applications. For the past 3+ years I've worked on
+products used by real people at scale:
 
-Here are some ideas to get you started:
+- 🏥 **Pezeshket**: telemedicine platform with 2M+ users and 6,000 doctors
+- 📊 Analytics dashboards used by 3,000+ sales staff
+- 🔄 Currently migrating Pezeshket from React.js to **Next.js + Tailwind CSS**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech stack
+![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000?logo=nextdotjs)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?logo=tailwindcss&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=white)
+
+**State & data:** Redux, Zustand, REST, Axios, Chart.js
+**UI:** Tailwind CSS, Material UI, shadcn/ui, Storybook
+**Tools:** Git, Vite, Webpack, Docker, Figma
+
+## Featured projects
+- [next-site](link): one-line description
+- [nextjs-dashboard2](link): one-line description
+
+## Get in touch
+[LinkedIn](your-url) · [Email](mailto:ida.kashizadeh@gmail.com)
